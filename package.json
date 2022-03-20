@@ -37,7 +37,7 @@
     "eth-json-rpc-infura": "^5.1.0",
     "eth-json-rpc-middleware": "^6.0.0",
     "eth-rpc-errors": "^3.0.0",
-    "eth-sig-util": "https://github.com/jedi-temples/eth-sig-util/tree/2.x",
+    "eth-sig-util": "git+https://github.com/jedi-temples/eth-sig-util.git#715797aa57b7cbe2e70d9ed9c9572b1ccb4f3903",
     "ethereumjs-block": "^1.2.2",
     "ethereumjs-util": "^5.1.5",
     "ethereumjs-vm": "^2.3.4",
